@@ -4,7 +4,7 @@ FROM python:3.9-slim
 # Set working directory
 WORKDIR /app
 
-# Copy everything from your project
+# Copy everything from project
 COPY . .
 
 # Install dependencies
