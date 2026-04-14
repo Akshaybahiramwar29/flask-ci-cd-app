@@ -1,16 +1,16 @@
 # 📸 Project Screenshots
 
 ## 🚀 CI/CD Pipeline Success
-![Pipeline](jenkins-pipeline-success.png)
+![Pipeline](Jenkins-pipeline-success.png)
 
 ## 🟢 Jenkins Stages
-![Stages](jenkins-stages-green.png)
+![Stages](Jenkins-stages-green.png)
 
 ## 📦 App Running
-![App](App-running1.png)
+![App](App-running-status.png)
 
 ## ⚙️ Nodes,Pods,Service & logs
-![Pods](nodes-pods-svc-logs.png)
+![Pods](nodes-pods-svc-logs-status.png)
 
 ## 🔍 SonarQube Quality Gate
 ![SonarQube](sonarqube-quality-gate.png)
