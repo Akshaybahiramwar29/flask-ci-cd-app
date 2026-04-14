@@ -130,9 +130,7 @@ project/
 
 ---
 
-## 📸 Screenshots to Include (IMPORTANT for GitHub)
-
-Add these screenshots to your repo:
+## 📸 Screenshots of projects
 
 1. Jenkins Pipeline Success
 2. SonarQube Dashboard
