@@ -132,7 +132,12 @@ project/
 
 ---
 
-## 📸 Screenshots of projects
+## 📸 Screenshots of projects            
+
+👉 Detailed screenshots available here:
+➡️ screenshots/README.md
+
+Includes:
 
 1. Jenkins Pipeline Success
 2. SonarQube Dashboard
