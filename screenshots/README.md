@@ -12,7 +12,21 @@
 ## ⚙️ Nodes,Pods,Service & logs
 ![Pods](nodes-pods-svc-logs.png)
 
-
 ## 🔍 SonarQube Quality Gate
 ![SonarQube](sonarqube-quality-gate.png)
 
+## 📦 Nexus Artifact Stored
+![Nexus](nexus-artifact.png)
+
+## 🗂️ Nexus Repositories
+![Nexus Repo](nexus-repo-status.png)
+
+## Dockerhub Updated Images
+![Docekrhub Repo](Dockerhub.png)
+
+## Describe Deployment
+![Deployment](Discribe-deployment.png)
+
+
+## AWS EKS Cluster Status
+![EKS status](AWS-EKS-Cluster-status.png)
