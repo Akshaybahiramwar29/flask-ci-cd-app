@@ -10,7 +10,7 @@
 ![App](App-running-status.png)
 
 ## ⚙️ Nodes,Pods,Service & logs
-![Pods](nodes-pods-svc-logs-status.png)
+![Nodes](nodes-pods-svc-logs-status.png)
 
 ## 🔍 SonarQube Quality Gate
 ![SonarQube](sonarqube-quality-gate.png)
@@ -25,7 +25,7 @@
 ![Docekrhub Repo](Dockerhub.png)
 
 ## Describe Deployment
-![Deployment](Discribe-deployment.png)
+![Discribe Deployment](Discribe-deployment.png)
 
 
 ## AWS EKS Cluster Status
