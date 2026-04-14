@@ -97,6 +97,8 @@ project/
 │   ├── deployment.yaml
 │   └── service.yaml
 └── README.md
+├── screenshots/
+    ├── README.md
 ```
 
 ---
