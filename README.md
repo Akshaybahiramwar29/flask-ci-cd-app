@@ -19,7 +19,9 @@ The pipeline automates:
 ```
 GitHub → Jenkins → Build & Test → SonarQube → Nexus → Docker → DockerHub → AWS EKS → LoadBalancer → Users
 ```
+## Architecture Diagram
 
+![Architecture](Architecture/architecture-diagram1.png)
 ---
 
 ## 🛠️ Tech Stack
