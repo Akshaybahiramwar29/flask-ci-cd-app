@@ -16,6 +16,9 @@
 ## 🔍 SonarQube Quality Gate
 ![SonarQube](sonarqube-quality-gate.png)
 
+## 🔍 SonarQube Project Overview
+![SonarQube](sonarqube-project-overview.png)
+
 ## 📦 Nexus Artifact Stored
 ![Nexus](nexus-artifact.png)
 
@@ -27,7 +30,6 @@
 
 ## Describe Deployment
 ![Discribe Deployment](Describe-deployment.png)
-
 
 ## AWS EKS Cluster Status
 ![EKS status](AWS-EKS-Cluster-status.png)
