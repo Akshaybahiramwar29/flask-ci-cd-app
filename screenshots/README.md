@@ -1,3 +1,4 @@
+
 # 📸 Project Screenshots
 
 ## 🚀 CI/CD Pipeline Success
@@ -10,7 +11,7 @@
 ![App](App-running-status.png)
 
 ## ⚙️ Nodes,Pods,Service & logs
-![Nodes](nodes-pods-svc-logs-status.png)
+![Nodes](nodes-pod-svc-logs-status.png)
 
 ## 🔍 SonarQube Quality Gate
 ![SonarQube](sonarqube-quality-gate.png)
@@ -25,7 +26,7 @@
 ![Docekrhub Repo](Dockerhub.png)
 
 ## Describe Deployment
-![Discribe Deployment](Discribe-deployment.png)
+![Discribe Deployment](Describe-deployment.png)
 
 
 ## AWS EKS Cluster Status
